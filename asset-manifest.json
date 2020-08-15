@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f6dde26.chunk.css",
-    "main.js": "/static/js/main.24d6987d.chunk.js",
-    "main.js.map": "/static/js/main.24d6987d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e8402bce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e8402bce.js.map",
-    "static/js/2.8b66efd4.chunk.js": "/static/js/2.8b66efd4.chunk.js",
-    "static/js/2.8b66efd4.chunk.js.map": "/static/js/2.8b66efd4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.58b68304d4aa2cae0ce5d6c1d232bf5e.js": "/precache-manifest.58b68304d4aa2cae0ce5d6c1d232bf5e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1f6dde26.chunk.css.map": "/static/css/main.1f6dde26.chunk.css.map",
-    "static/js/2.8b66efd4.chunk.js.LICENSE.txt": "/static/js/2.8b66efd4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/trash.d8078343.svg",
-    "static/media/logo.svg": "/static/media/logo.c6f11019.svg"
+    "main.css": "/bambambarabam/mesto-react/static/css/main.0f78b481.chunk.css",
+    "main.js": "/bambambarabam/mesto-react/static/js/main.11c65c43.chunk.js",
+    "main.js.map": "/bambambarabam/mesto-react/static/js/main.11c65c43.chunk.js.map",
+    "runtime-main.js": "/bambambarabam/mesto-react/static/js/runtime-main.82d5c71f.js",
+    "runtime-main.js.map": "/bambambarabam/mesto-react/static/js/runtime-main.82d5c71f.js.map",
+    "static/js/2.8b66efd4.chunk.js": "/bambambarabam/mesto-react/static/js/2.8b66efd4.chunk.js",
+    "static/js/2.8b66efd4.chunk.js.map": "/bambambarabam/mesto-react/static/js/2.8b66efd4.chunk.js.map",
+    "index.html": "/bambambarabam/mesto-react/index.html",
+    "precache-manifest.b552ce8230c71d57698b4c4ff7d4b668.js": "/bambambarabam/mesto-react/precache-manifest.b552ce8230c71d57698b4c4ff7d4b668.js",
+    "service-worker.js": "/bambambarabam/mesto-react/service-worker.js",
+    "static/css/main.0f78b481.chunk.css.map": "/bambambarabam/mesto-react/static/css/main.0f78b481.chunk.css.map",
+    "static/js/2.8b66efd4.chunk.js.LICENSE.txt": "/bambambarabam/mesto-react/static/js/2.8b66efd4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bambambarabam/mesto-react/static/media/trash.d8078343.svg",
+    "static/media/logo.svg": "/bambambarabam/mesto-react/static/media/logo.c6f11019.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8402bce.js",
+    "static/js/runtime-main.82d5c71f.js",
     "static/js/2.8b66efd4.chunk.js",
-    "static/css/main.1f6dde26.chunk.css",
-    "static/js/main.24d6987d.chunk.js"
+    "static/css/main.0f78b481.chunk.css",
+    "static/js/main.11c65c43.chunk.js"
   ]
 }
